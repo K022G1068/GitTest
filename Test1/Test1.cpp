@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello VisualStudio Git Branch!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
